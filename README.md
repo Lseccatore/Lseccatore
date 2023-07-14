@@ -1,8 +1,8 @@
 👋 Hello! I'm Lucas (@Lseccatore), and I'm passionate about the world of Web3. Currently, I'm focused on learning and developing my skills in Solidity through courses and videos. I'm thrilled to be a part of projects related to blockchain and web3 development.
 
-🌱 In my current journey, I'm immersing myself in learning about smart contract development and exploring the possibilities of building decentralized applications (DApps). I would love to collaborate on projects where I can apply my knowledge in Solidity and continue growing in this fascinating field.
+🌱 In my current journey, I'm immersing myself in learning about smart contract development. I would love to collaborate on projects where I can apply my knowledge in Solidity and continue growing in this fascinating field.
 
-💞️ My main goal is to find an internship opportunity in projects related to Web3 and blockchain. I'm open to contributing in various areas, whether it's in the development of smart contracts, design and development of DApps, research and educational content writing, or even in testing and security.
+💞️ My main goal is to find an internship opportunity in projects related to Web3 and blockchain. I'm open to contributing in various areas.
 
 📫 If you'd like to reach out to me, you can do so through my email addresses: lucas.seccatore@gmail.com or lucasseccatore@gmail.com. I'll be on the lookout for any relevant opportunities or communications, so feel free to get in touch.
 
@@ -14,9 +14,9 @@ I'm excited to find collaborations in the Web3 and blockchain space where I can 
 
 👋 ¡Hola! Soy Lucas (@Lseccatore) y me apasiona el mundo de Web3. Actualmente, estoy enfocado en aprender y desarrollar mis habilidades en Solidity a través de cursos y videos. Me emociona formar parte de proyectos relacionados con blockchain y desarrollo web3.
 
-🌱 En mi trayectoria actual, estoy inmerso en el aprendizaje de desarrollo de contratos inteligentes y explorando las posibilidades de construir aplicaciones descentralizadas (DApps). Me encantaría colaborar en proyectos donde pueda aplicar mis conocimientos en Solidity y continuar creciendo en este fascinante campo.
+🌱 En mi trayectoria actual, estoy inmerso en el aprendizaje de desarrollo de contratos inteligentes. Me encantaría colaborar en proyectos donde pueda aplicar mis conocimientos en Solidity y continuar creciendo en este fascinante campo.
 
-💞️ Mi objetivo principal es encontrar una oportunidad como interno en proyectos relacionados con Web3 y blockchain. Estoy abierto a contribuir en diversas áreas, ya sea en el desarrollo de contratos inteligentes, el diseño y desarrollo de DApps, la investigación y redacción de contenido educativo, o incluso en pruebas y seguridad.
+💞️ Mi objetivo principal es encontrar una oportunidad como interno en proyectos relacionados con Web3 y blockchain. Estoy abierto a contribuir en diversas áreas.
 
 📫 Si deseas contactarme, puedes hacerlo a través de mis direcciones de correo electrónico: lucas.seccatore@gmail.com o lucasseccatore@gmail.com. Estaré atento a cualquier oportunidad o comunicación relevante, así que no dudes en contactarme.
 
